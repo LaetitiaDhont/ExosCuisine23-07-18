@@ -1,9 +1,6 @@
 package package1;
-// exemple de création d'instance
 
-// j'ai ma classe Cuisine pour me préparer un café
-
-// je créer une deuxième classe 
+// je crée une deuxième classe 
 class Application {
 	
 	public static void main(String[] args) {
@@ -31,6 +28,7 @@ class Application {
 		retourCafe = cuisineSimplon.machineCafe("Georges Clooney", "EauMG", "Benjamin");
 		retourCafe = cuisinePierre.machineCafe("Colombien", "Cristaline", "On");
 		retourCafe = cuisineAthanasia.machineCafe("Arabica", "Volvic", "On");
+		
 	
 	}
 }

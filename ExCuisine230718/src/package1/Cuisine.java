@@ -1,4 +1,7 @@
 package package1;
+//exemple de création d'instance
+
+//j'ai ma classe Cuisine pour me préparer un café
 
 public class Cuisine {
 	
@@ -7,7 +10,7 @@ public class Cuisine {
 		String nom;
 		String prenom;
 		
-		// je créer ma méthode pour faire mon café puis je retourne à ma variable café
+		// je crée ma méthode pour faire mon café puis je retourne à ma variable café
 		String machineCafe (String cafe, String eau, String button) {
 			return cafe + eau + button; 
 		}
