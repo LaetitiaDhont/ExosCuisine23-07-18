@@ -1,10 +1,7 @@
 package package1;
-
+// J'ai créé une classe Liquide
 public class Liquide {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+// Je déclare mes variables 
+	String nomLiq;
+	int quantite;
 }
